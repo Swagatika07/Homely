@@ -1,3 +1,3 @@
-# Homely can be checked out here
+# Homely, a real estate website
 
 https://homely.pages.dev/
